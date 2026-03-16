@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Sharma</h1>
-<h3 align="center">Machine Learning Developer</h3>
-# 💫 About Me:
+<h3 align="center">Machine Learning Developer | AI Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;AI+Enthusiast;Building+Real+World+ML+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+## 💫 About Me:
 I am a passionate Machine Learning developer currently learning<br> and building real-world ML projects. I enjoy turning data into<br> meaningful insights and solving complex problems using<br> machine learning techniques. Recently, I have been <br>focusing on creating ML applications and deploying them on<br> AWS while continuously improving my understanding of scalable <br>ML systems.<br>
 
 
