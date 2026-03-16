@@ -1,15 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepanshu%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Developer%20%7C%20AWS%20Enthusiast%20%7C%20Data%20Storyteller&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepanshu%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Developer%20%7C%20&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepanshu+Sharma;Machine+Learning+Developer;Turning+Data+into+Decisions;Building+Scalable+ML+on+AWS)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeepanshuSharma1607&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/DeepanshuSharma1607?tab=followers">
-    <img src="https://img.shields.io/github/followers/DeepanshuSharma1607?label=Followers&style=for-the-badge&color=0e75b6" />
-  </a>
-</p>
 
 </div>
 
@@ -38,7 +32,7 @@ class DeepanshuSharma:
         print("Thanks for stopping by! Let's build something amazing 🚀")
 ```
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### 🎯 What I'm Up To
 
@@ -142,6 +136,10 @@ class DeepanshuSharma:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeepanshuSharma1607&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
 ⭐️ **If you find my work interesting, consider giving a star to my repositories!**
 
