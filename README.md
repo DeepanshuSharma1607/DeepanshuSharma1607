@@ -1,33 +1,148 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Sharma</h1>
-<h3 align="center">Machine Learning Developer | AI Enthusiast</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepanshu%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Developer%20%7C%20AWS%20Enthusiast%20%7C%20Data%20Storyteller&descAlignY=55&descSize=16"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepanshu+Sharma;Machine+Learning+Developer;Turning+Data+into+Decisions;Building+Scalable+ML+on+AWS)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;AI+Enthusiast;Building+Real+World+ML+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://komarev.com/ghpvc/?username=DeepanshuSharma1607&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/DeepanshuSharma1607?tab=followers">
+    <img src="https://img.shields.io/github/followers/DeepanshuSharma1607?label=Followers&style=for-the-badge&color=0e75b6" />
+  </a>
 </p>
-## 💫 About Me:
-I am a passionate Machine Learning developer currently learning<br> and building real-world ML projects. I enjoy turning data into<br> meaningful insights and solving complex problems using<br> machine learning techniques. Recently, I have been <br>focusing on creating ML applications and deploying them on<br> AWS while continuously improving my understanding of scalable <br>ML systems.<br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-sharma-a08ba7319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepanshusharma0846@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeepanshuSharma1607&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DeepanshuSharma1607&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuSharma1607&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeepanshuSharma1607&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DeepanshuSharma1607&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DeepanshuSharma1607&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+```python
+class DeepanshuSharma:
+    name       = "Deepanshu Sharma"
+    role       = "Machine Learning Developer"
+    location   = "India 🇮🇳"
+    pronouns   = "he/him"
+
+    currently  = [
+        "📚 Learning scalable ML system design",
+        "☁️  Deploying ML apps on AWS",
+        "🔍 Exploring MLOps & model monitoring",
+    ]
+
+    skills     = ["Python", "Scikit-learn", "FastAPI", "Docker", "AWS"]
+    interests  = ["Deep Learning", "NLP", "Data Engineering"]
+    open_to    = "Collaborations, Internships & Open-Source Projects"
+
+    def say_hello(self):
+        print("Thanks for stopping by! Let's build something amazing 🚀")
+```
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+### 🎯 What I'm Up To
+
+- 🔭 Currently working on **ML applications with AWS deployment**
+- 🌱 Deepening expertise in **MLOps & scalable pipelines**
+- 💡 Passionate about **turning raw data into real-world impact**
+- 🤝 Open to **collaborating on interesting ML/AI projects**
+- 📫 Reach me at **deepanshusharma0846@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/deepanshu-sharma-a08ba7319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deepanshusharma0846@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DeepanshuSharma1607">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 ML & Data Science
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 💻 Languages & Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeepanshuSharma1607&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuSharma1607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DeepanshuSharma1607&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DeepanshuSharma1607&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuSharma1607&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF" />
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=DeepanshuSharma1607&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+⭐️ **If you find my work interesting, consider giving a star to my repositories!**
+
+</div>
