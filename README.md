@@ -117,10 +117,9 @@ class DeepanshuSharma:
 
 ---
 
-## 🔝 Top Contributed Repos
-
+## 🔝 Highlighted / Top Repos
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=DeepanshuSharma1607&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=DeepanshuSharma1607&repo=Credit_Card_Fraud_Detector&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
