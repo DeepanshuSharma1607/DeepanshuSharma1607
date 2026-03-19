@@ -26,7 +26,7 @@ class DeepanshuSharma:
 
     skills     = ["Python", "Scikit-learn", "FastAPI", "Docker", "AWS"]
     interests  = ["Deep Learning", "NLP", "Data Engineering"]
-    open_to    = "Collaborations, Internships & Open-Source Projects"
+    open_to    = ["Collaborations, Internships & Open-Source Projects"]
 
     def say_hello(self):
         print("Thanks for stopping by! Let's build something amazing 🚀")
