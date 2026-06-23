@@ -22,7 +22,7 @@
 ## 🙋 About Me
 
 - 🤖 Hands-on experience building **end-to-end predictive ML systems** on real-world datasets
-- 🌱 Currently deepening expertise in **Deep Learning (PyTorch) & NLP** — TF-IDF, Word2Vec, NER
+- 🌱 Currently deepening expertise in **Deep Learning (TensorFlow) & NLP** — TF-IDF, Word2Vec, NER
 - 🏆 Solved **300+ DSA problems** on LeetCode, Codeforces & GeeksforGeeks
 - 🎓 B.Tech CSE @ **IILM University** · CGPA **8.9 / 10**
 - 🤝 Open to **collaborations, internships & open-source projects**
