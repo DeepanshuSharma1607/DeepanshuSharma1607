@@ -25,7 +25,7 @@
 - 🎙️ Built a **RAG-based transcription/Q&A assistant** using faster-whisper, LangChain & ChromaDB
 - 🏏 Built a **real-time ML prediction app** for live IPL win probability (XGBoost, 74.6% accuracy)
 - 🐦 Competing in **Kaggle BirdCLEF 2026** — audio classification across 236 bird species
-- 🏆 Solved **375+ DSA problems** on LeetCode, Codeforces & GeeksforGeeks
+- 🏆 Solved **500+ DSA problems** on LeetCode, Codeforces & GeeksforGeeks
 - 🎓 B.Tech CSE @ **IILM University** · CGPA **8.57 / 10**
 - 🧑‍🏫 Core Member, DSA Wing — NextGenXAI Club (mentoring 50+ students, running workshops & contests)
 - 📫 **deepanshusharma0846@gmail.com**
